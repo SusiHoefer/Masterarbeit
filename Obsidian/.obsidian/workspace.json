@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "38649b2e1534f092",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1423b8c7032f61b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "522dfc5532ecc090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiener Moderne/Wiener Moderne Allgemein/Wiener Moderne.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04785270f109f4f1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a5545f7a98682b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiener Moderne/Zeitungen & Zeitschriften/Zeitungen & Zeitschriften.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91cb235480be675f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alfred Polgar/Polgar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff4f248fc33160fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semantik-Linguistik_Grundlage/Alexander Ziem Frames und sprachliches Wissen Kognitive Aspekte der semantischen Kompetenz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b8d943cd94e89a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semantik-Linguistik_Grundlage/Prädikation von Hyperonymen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd6ef6b0c8709cbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiener Moderne/Zeitungen & Zeitschriften/Feuilleton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38daeda04433b585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Editiorische Fragen/Probleme bei der Annotation & Editorische Fragen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "991bd2ae2bf3f8f2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "da3de282c6fbbb91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Editiorische Fragen/Probleme bei der Annotation & Editorische Fragen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46afdaa7dff3cfea",
+    "type": "split",
+    "children": [
+      {
+        "id": "07a425c6e69deeb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08aba5d453b3e3e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f1b707c18519192",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46180199fa21a214",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b17a3f3a57aa08d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9f37258d7950d68",
+    "type": "split",
+    "children": [
+      {
+        "id": "b08e1c7e413232a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6829efb030e65e78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Editiorische Fragen/Probleme bei der Annotation & Editorische Fragen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "813a5c8bfa2a6680",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Editiorische Fragen/Probleme bei der Annotation & Editorische Fragen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb9ba380f43a621c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c97b6651bfd1756",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Editiorische Fragen/Probleme bei der Annotation & Editorische Fragen.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "da3de282c6fbbb91",
+  "lastOpenFiles": [
+    "Semantik-Linguistik_Grundlage/Untitled.canvas",
+    "Wiener Moderne/Zeitungen & Zeitschriften/Zeitungen & Zeitschriften.md",
+    "Stil- und Textmethoden/Textstilistik Barbara Sandig.md",
+    "Stil- und Textmethoden/Dritter Raum.md",
+    "Editiorische Fragen/Probleme bei der Annotation & Editorische Fragen.md",
+    "Editiorische Fragen",
+    "Wiener Moderne/Zeitungen & Zeitschriften/Feuilleton.md",
+    "Semantik-Linguistik_Grundlage/Heckenausdruck.md",
+    "Semantik-Linguistik_Grundlage/Alexander Ziem Frames und sprachliches Wissen Kognitive Aspekte der semantischen Kompetenz.md",
+    "Alfred Polgar/Feuilletonist Polgar.md",
+    "Alfred Polgar/Polgar.md",
+    "Semantik-Linguistik_Grundlage/Untitled",
+    "Semantik-Linguistik_Grundlage/wörter  links und rechts mitnehmen.md",
+    "Semantik-Linguistik_Grundlage/Prädikation von Hyperonymen.md",
+    "Semantik-Linguistik_Grundlage/Semantische Merkmale.md",
+    "Wiener Moderne/Wiener Moderne Allgemein/Wiener Moderne.md",
+    "Theorie/Alfred Polgar/Polgar.md",
+    "Theorie/Wiener Moderne/Zeitungen & Zeitschriften/Zeitungen & Zeitschriften.md",
+    "Theorie/Wiener Moderne/Wiener Moderne.md",
+    "Zeitungen der Wiener Moderne.md"
+  ]
+}

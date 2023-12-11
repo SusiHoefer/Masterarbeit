@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die großen Boulevards</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy>
+
+               <category xml:id="Natur">
+                  <category xml:id="Sein">
+                     <category xml:id="Vier_Elemente">
+                        <category xml:id="Feuer"/>
+                        <category xml:id="Wasser"/>
+                        <category xml:id="Erde"/>
+                        <category xml:id="Luft"/>
+                     </category>
+
+                     <category xml:id="Leben">
+                        <category xml:id="Fauna">
+                           <category xml:id="Emotion">
+                              <category xml:id="Emotion_positiv"></category>
+                              <category xml:id="Emotion_negativ"></category>
+                           </category>
+                        </category>
+                           
+                        <category xml:id="Flora"></category>
+                     </category>
+                  </category>
+               </category>
+
+               <category xml:id="Artefakt">
+                  <category xml:id="Siedlungtyp">
+                     <category xml:id="Stadt">
+                        <category xml:id="Stadttyp">
+                           <category xml:id="Kleinstadt"/>
+                           <category xml:id="Großstadt">
+                              <category xml:id="Metropole"/>
+                           </category>
+                           <category xml:id="Siedlungsstrukturelement">
+                              <category xml:id="Gebäude"/>
+                              <category xml:id="Verkehrssystem"/>
+                           </category>
+                        </category>
+
+                     </category>
+
+                  </category>
+               </category>
+
+               <category xml:id="Wirtschaft">
+                  <category xml:id="Werbung">
+                     <category xml:id="Werbemittel"/>
+                     <category xml:id="Arbeit">
+                        <category xml:id="Arbeitsmittel"/>
+                        <category xml:id="Arbeitstätigkeit"/>
+                     </category>
+                  </category>
+
+               </category>
+               <category xml:id="Bewegung">
+                  <category xml:id="räumliche_Bewegung">
+                     <category xml:id="räumliche_Bewegung_ja"/>
+                     <category xml:id="räumliche_Bewegung_nein"/>
+                  </category>
+
+                  <category xml:id="zeitliche_Bewegung">
+                     <category xml:id="zeitliche_Bewegung_ja"/>
+                     <category xml:id="zeitliche_Bewegung_nein"/>
+                  </category>
+               </category>
+
+               <category xml:id="Bibel"> </category>
+
+               <category xml:id="Numerale"/>
+
+               <category xml:id="Funktion">
+                  <category xml:id="Ironie"/>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Die großen Boulevards</head>
+         <p><l ana="#Numerale">Eins, zwei, drei,</l>
+            <l ana="#Bewegung #zeitliche_Bewegung #zeitliche_Bewegung_ja">im Sauseschritt läuft die Zeit...</l>
+            <lg ana="#">
+               <l ana="#Natur #Vier_Elemente #Feuer">Lich‐terloh brennt</l>
+               <l ana="#Leben">das Leben oder was man so heißt,</l>
+            </lg>
+            <lg ana="#Arbeit #Natur #Wirtschaft #Emotion" >
+               <l ana="#Natur #Vier_Elemente #Feuer"> ange‐facht von den </l>
+               <lg ana="#Natur #Arbeit">
+                  <l ana="#Natur #Vier_Elemente #Luft">Blase</l>
+                  <l ana="#Arbeit #Arbeitsmittel">bälgen</l>
+               </lg>
+               <lg>
+                  <l ana="#Wirtschaft">Kommerz und </l> 
+                  <l ana="#Natur #Sein #Leben #Fauna #Emotion #Emotion_positiv">Vergnügen</l></lg>
+            </lg>  
+            <lg ana="#Natur #Artefakt">
+               <l ana="#Natur #Vier_Elemente #Erde #Wasser">durch das breite Bett</l> 
+               <l ana="#Artefakt #Siedlungtyp #Stadt #Siedlungsstrukturelement #Verkehrssystem">der Straße</l>
+            </lg>
+            <l ana="#Bewegung #räumliche_Bewegung #räumliche_Bewegung_ja">stürzt </l>
+            <l ana="#Artefakt #Siedlungtyp #Stadt">die Stadt</l>
+            <l ana="#Natur #Vier_Elemente #Wasser">Welle auf Welle,</l> 
+            <lg>
+               <l>immer ist</l>
+               <l ana="#Natur #Vier_Elemente #Luft">Sturm,</l>
+            </lg> 
+            <lg>
+               <l>hier</l> 
+               <l>kann niemand stehen‐ bleiben </l>
+               <l>(auch die Zeit nicht, das begreift man),</l>
+            </lg> 
+            <lg>
+               <l>er</l>
+               <l>würde fortgeputzt</l>
+               <l>vom Benzin,</l>
+            </lg> das Flecke wegbringt und vom Fleck bringt, und dessen Tag des Ruhms (werfen
+            Sie nur einen Blick in den salon de l’automobile) gekommen ist, kurz wie der Frühling
+            sind die Röcke, 
+            <lg ana="#Funktion #Ironie">
+               <l ana="#Arbeit #Arbeitsmittel">der Stab des Polizisten,</l>
+               <l ana="#Werbung #Werbemittel">ein weißer Riesenzeigefinger,</l>
+               <l ana="#Bewegung #räumliche_Bewegung_nein #Arbeit #Arbeitstätigkeit"> macht das
+                  Auto-Meer stocken,</l>
+            </lg>
+            <l ana="#Bibel #Bewegung #räumliche_Bewegung_ja">hastig durcheilen Kinder Israels und
+               anderer Ahnen die sichere Furt,</l> aus den gestauten, gedrängten Kolonnen der
+            Pferdekräfte bellt, schreit, gröhlt es ungeduldig mit hundert Hupen, wie vom Renn‐ start
+            springen die Wagen, dürfen sie wieder, los, «L’In‐ trant, «Paris le soir», rechts sind
+            Bäume, links sind Bäume, um die meisten windet sich metallische Wand und auch in dem
+            diskreten Raum, den sie umschließt, strömt das Leben ohne Unterlaß, Schrift und Zeichen
+            glühen von Dächern und Mauern, feurige Pfeile, Sterne, Räder, Trompetenstöße ins Auge,
+            Menschenmassen, Wagenmassen, die Straße, so viel bewegt, scheint selbst in <fw n="185"
+               >185</fw>
+         </p>
+         <p> Bewegung, eine Riesenschlange, hingewunden über Ki- lometer, Lebendiges, mehr als sie
+            fassen kann, schlin‐ gend, schluckend, würgend, Menschengewimmel, Wagengewimmel, in
+            Fäden aufgelöst, zu Knäueln ge ballt, umgequirit von einem luftfarben Löffel zur ko
+            chenden, brodelnden Großstadtmasse, attention, blau weiß-grün-rote Lichtaugen öffnen,
+            schließen sich, zwin‐ kern heran, auf, zu, auf, zu, vom Menschenstrom fließen Strömchen
+            ab in die Schächte der Metropolitain, «Paris Sportl, Flamme schreibt in Zitterbuchstaben
+            auf ein Dach, daß Monsieur Doumergue eine Rede gehalten hat, daß es morgen regnen wird,
+            daß in Mexiko..., daß in China... und noch andere Dinge aus der fernen Welt, die
+            nirgendwo näher liegt als bei Paris, vom Zeitungs‐ haus schmettert der Radiotrichter
+            Musik, mit Menschen und Stühlen, enggereiht, quellen die Caféhäuser breit ins Freie
+            über, die Frauen sitzen lässig, konziliante Beine gekreuzt, Fairbanks, glühlicht
+            umfunkelt, zeigt, auf ge‐ waltiger Affiche, sein herrliches Gebiß, jeder Zahn ein paar
+            Dezimeter hoch (spectacle permanent von zwei bis Mitternacht), den Arm um des Mädchens
+            Taille wandelt der Jüngling mit Apachenmütze durch verachtetes Bür‐ gergewühl, die
+            närrische Zeitungsverkäuferin singt Fi‐ stelkoloraturen um ihre Zeitungstitel, «Citroën,
+            rollt hoch oben gigantische Feuerlettern, für fünfhundert Franken im Monat bekommst du
+            schon ein Wägelchen, Schokoladecis in Stanniolpapier reicht der Weiß be‐ schürzte durch
+            das offene Barfenster, Paris Times, die Gemüsewagen rücken schon an, von seltsam
+            fremdarti‐ gen, langsamen, schweren Maschinen gezogen, soge‐ nannten Pferden, der Mond
+            steht am Himmel, aber er scheint nur in die Nebengassen, durch den roten Brodem <fw
+               n="186">186</fw>
+         </p>
+
+         <p>der Boulevards kommt er nicht durch, in den Buden, wo von zwei Erdteilen hergewehtes
+            Zeitungspapier bunt ge‐ stapelt liegt, bauen sich kleine Türme «Paris Soir», dritte
+            Ausgabe, frisch vom Herd, noch ist die zweite nicht kalt geworden, ein Mensch wird
+            überfahren, das kommt vor, Paris ist nicht wehleidig, daß hier Tag um Tag etliche nicht
+            nur so, sondern auch in des Wortes Sinn unter die Räder kommen, das sind Spesen, die im
+            Betrieb keine Rolle spielen, «Ta gueule schimpft der Chauffeur zum schimpfenden
+            Passanten, den er fast niedergestoßen hat, fast, denn herrlich ist die Geschicklichkeit,
+            Flinkheit, Sicherheit der Benzinkutscher, wurmgeschmeidig win‐ det sich die
+            tausendgliedrige Autokette, streckt sich, zieht sich zusammen, ballettleicht fliegt der
+            Wagen um schärf‐ ste Ecken, in engsten Kurven, und vor dem plötzlichen Hindernis hält er
+            so plötzlich, so mitten im Sprung gleichsam, daß man meint, er müsse jetzt auf
+            Hinterbei‐ nen stehn, bedächtig im Gewühl schreitet ein tunesischer Grande, Burnus und
+            Turban, niemand sieht ihn an, nur die kleinen Mädchen, ach, in der Not gehen hundert auf
+            einen Strich, lächeln ihm zu, der nicht zurücklächelt da sind die Neger schon anders! -,
+            es zeigen sich überhaupt viel fremde Typen auf den Boulevards, auch Angehörige wilder
+            Völkerschaften, ich hörte einen sagen: «... nicht wegen der zwei Franken, aber man ist
+            doch nicht gern die Wurzen, ein alter Kerl im Samtrock erzählt mit großen Gebärden, die
+            Leute bleiben stehen und hören ihm zu, und er bietet ihnen selbstverfaßte Chansons zum
+            Kauf, und da gehen sie wieder weiter, siehe, hier ist ein Triumphbogen, er trumpft zwar
+            schon ein Vierteljahr‐ tausend so mitten auf der Straße, aber es ist doch eine
+            Überraschung, das Leben quetscht sich durch den Bogen <fw n="187">187</fw>
+         </p>
+         <p> wie das Heute sich durch das Gestern quetscht, es regnet, Menschenmassen, Wagenmassen,
+            Lärm, Licht, Fülle, Bewegung ohne Ende Königin, die Kärntnerstraße ist doch schön, jetzt
+            ist die Oper aus, Smokings in Rudeln strömen schwarz=weiß über den Platz, die Reihen der
+            Gemüsewagen werden dichter, Tag endet, Tag beginnt schon wieder. Alles fließt, besonders
+            in Paris, in zwei Jahren, die Zeitungen haben es ausgerechnet, wird die Zahl der Autos
+            in der Stadt sich verdoppelt haben, wo wie werden dann die Fußgänger, die armen piétons,
+            durchkriechen, es regnet heftig, zwiefach hell im Nasse‐ spiegel leuchtet der Boulevard,
+            ein winziges Ritzerchen nur auf dem Ster Erde, der mit Milliarden anderen um die Sonne
+            kreist, die mit Milliarden anderen Sonnen im Weltraum kreist, der wahrscheinlich auch um
+            etwas kreist, ein winziges Ritzerchen nur auf dem Stern Erde eine haarfeine Linie, aber
+            das Antlitz des Planeten wäre noch medusenhafter ohne sie. Im Sauseschritt läuft die
+            Zeit, Paris lauft mit. <fw n="188">188</fw>
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die großen Boulevards</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <classDecl>
+           <taxonomy>
+              <category>
+              </category>
+           </taxonomy>
+        </classDecl>
+     </encodingDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Die großen Boulevards</p>
+         <p>Eins, zwei, drei, im Sauseschritt läuft die Zeit...Lich‐
+            terloh brennt das Leben oder was man so heißt, ange‐
+            facht von den Blasebälgen Kommerz und Vergnügen
+            durch das breite Bett der Straße stürzt die Stadt Welle
+            auf Welle, immer ist Sturm, hier kann niemand stehen‐
+            bleiben (auch die Zeit nicht, das begreift man), er würde
+            fortgeputzt vom Benzin, das Flecke wegbringt und vom
+            Fleck bringt, und dessen Tag des Ruhms (werfen Sie nur
+            einen Blick in den salon de l’automobile) gekommen ist,
+            kurz wie der Frühling sind die Röcke, der Stab des
+            Polizisten, ein weißer Riesenzeigefinger, macht das
+            Auto-Meer stocken, hastig durcheilen Kinder Israels
+            und anderer Ahnen die sichere Furt, aus den gestauten,
+            gedrängten Kolonnen der Pferdekräfte bellt, schreit,
+            gröhlt es ungeduldig mit hundert Hupen, wie vom Renn‐
+            start springen die Wagen, dürfen sie wieder, los, «L’In‐
+            trant, «Paris le soir», rechts sind Bäume, links sind
+            Bäume, um die meisten windet sich metallische Wand
+            und auch in dem diskreten Raum, den sie umschließt,
+            strömt das Leben ohne Unterlaß, Schrift und Zeichen
+            glühen von Dächern und Mauern, feurige Pfeile, Sterne,
+            Räder, Trompetenstöße ins Auge, Menschenmassen,
+            Wagenmassen, die Straße, so viel bewegt, scheint selbst in
+            <fw n="185">185</fw>
+         </p>
+         <p>
+            Bewegung, eine Riesenschlange, hingewunden über Ki-
+            lometer, Lebendiges, mehr als sie fassen kann, schlin‐
+            gend, schluckend, würgend, Menschengewimmel,
+            Wagengewimmel, in Fäden aufgelöst, zu Knäueln ge
+            ballt, umgequirit von einem luftfarben Löffel zur ko
+            chenden, brodelnden Großstadtmasse, attention, blau
+            weiß-grün-rote Lichtaugen öffnen, schließen sich, zwin‐
+            kern heran, auf, zu, auf, zu, vom Menschenstrom fließen
+            Strömchen ab in die Schächte der Metropolitain, «Paris
+            Sportl, Flamme schreibt in Zitterbuchstaben auf ein
+            Dach, daß Monsieur Doumergue eine Rede gehalten
+            hat, daß es morgen regnen wird, daß in Mexiko..., daß
+            in China... und noch andere Dinge aus der fernen Welt,
+            die nirgendwo näher liegt als bei Paris, vom Zeitungs‐
+            haus schmettert der Radiotrichter Musik, mit Menschen
+            und Stühlen, enggereiht, quellen die Caféhäuser breit ins
+            Freie über, die Frauen sitzen lässig, konziliante Beine
+            gekreuzt, Fairbanks, glühlicht umfunkelt, zeigt, auf ge‐
+            waltiger Affiche, sein herrliches Gebiß, jeder Zahn ein
+            paar Dezimeter hoch (spectacle permanent von zwei bis
+            Mitternacht), den Arm um des Mädchens Taille wandelt
+            der Jüngling mit Apachenmütze durch verachtetes Bür‐
+            gergewühl, die närrische Zeitungsverkäuferin singt Fi‐
+            stelkoloraturen um ihre Zeitungstitel, «Citroën, rollt
+            hoch oben gigantische Feuerlettern, für fünfhundert
+            Franken im Monat bekommst du schon ein Wägelchen,
+            Schokoladecis in Stanniolpapier reicht der Weiß be‐
+            schürzte durch das offene Barfenster, Paris Times, die
+            Gemüsewagen rücken schon an, von seltsam fremdarti‐
+            gen, langsamen, schweren Maschinen gezogen, soge‐
+            nannten Pferden, der Mond steht am Himmel, aber er
+            scheint nur in die Nebengassen, durch den roten Brodem
+            <fw n="186">186</fw>
+         </p>
+         
+            <p>der Boulevards kommt er nicht durch, in den Buden, wo
+            von zwei Erdteilen hergewehtes Zeitungspapier bunt ge‐
+            stapelt liegt, bauen sich kleine Türme «Paris Soir», dritte
+            Ausgabe, frisch vom Herd, noch ist die zweite nicht kalt
+            geworden, ein Mensch wird überfahren, das kommt vor,
+            Paris ist nicht wehleidig, daß hier Tag um Tag etliche
+            nicht nur so, sondern auch in des Wortes Sinn unter die
+            Räder kommen, das sind Spesen, die im Betrieb keine
+            Rolle spielen, «Ta gueule schimpft der Chauffeur zum
+            schimpfenden Passanten, den er fast niedergestoßen hat,
+            fast, denn herrlich ist die Geschicklichkeit, Flinkheit,
+            Sicherheit der Benzinkutscher, wurmgeschmeidig win‐
+            det sich die tausendgliedrige Autokette, streckt sich, zieht
+            sich zusammen, ballettleicht fliegt der Wagen um schärf‐
+            ste Ecken, in engsten Kurven, und vor dem plötzlichen
+            Hindernis hält er so plötzlich, so mitten im Sprung
+            gleichsam, daß man meint, er müsse jetzt auf Hinterbei‐
+            nen stehn, bedächtig im Gewühl schreitet ein tunesischer
+            Grande, Burnus und Turban, niemand sieht ihn an, nur
+            die kleinen Mädchen, ach, in der Not gehen hundert auf
+            einen Strich, lächeln ihm zu, der nicht zurücklächelt da
+            sind die Neger schon anders! -, es zeigen sich überhaupt
+            viel fremde Typen auf den Boulevards, auch Angehörige
+            wilder Völkerschaften, ich hörte einen sagen: «... nicht
+            wegen der zwei Franken, aber man ist doch nicht gern
+            die Wurzen, ein alter Kerl im Samtrock erzählt mit
+            großen Gebärden, die Leute bleiben stehen und hören
+            ihm zu, und er bietet ihnen selbstverfaßte Chansons zum
+            Kauf, und da gehen sie wieder weiter, siehe, hier ist ein
+            Triumphbogen, er trumpft zwar schon ein Vierteljahr‐
+            tausend so mitten auf der Straße, aber es ist doch eine
+            Überraschung, das Leben quetscht sich durch den Bogen
+               <fw n="187">187</fw>
+         </p>
+         <p>
+            wie das Heute sich durch das Gestern quetscht, es regnet,
+            Menschenmassen, Wagenmassen, Lärm, Licht, Fülle,
+            Bewegung ohne Ende Königin, die Kärntnerstraße ist
+            doch schön, jetzt ist die Oper aus, Smokings in Rudeln
+            strömen schwarz=weiß über den Platz, die Reihen der
+            Gemüsewagen werden dichter, Tag endet, Tag beginnt
+            schon wieder. Alles fließt, besonders in Paris, in zwei
+            Jahren, die Zeitungen haben es ausgerechnet, wird die
+            Zahl der Autos in der Stadt sich verdoppelt haben, wo
+            wie werden dann die Fußgänger, die armen piétons,
+            durchkriechen, es regnet heftig, zwiefach hell im Nasse‐
+            spiegel leuchtet der Boulevard, ein winziges Ritzerchen
+            nur auf dem Ster Erde, der mit Milliarden anderen um
+            die Sonne kreist, die mit Milliarden anderen Sonnen im
+            Weltraum kreist, der wahrscheinlich auch um etwas
+            kreist, ein winziges Ritzerchen nur auf dem Stern Erde
+            eine haarfeine Linie, aber das Antlitz des Planeten wäre
+            noch medusenhafter ohne sie.
+            Im Sauseschritt läuft die Zeit, Paris lauft mit.
+            <fw n="188">188</fw>
+         </p>
+      </body>
+  </text>
+</TEI>
