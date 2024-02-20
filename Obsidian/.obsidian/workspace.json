@@ -118,9 +118,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c7ff23da67c1c87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Editiorische Fragen/Probleme bei der Annotation & Editorische Fragen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -254,13 +266,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da3de282c6fbbb91",
+  "active": "2c7ff23da67c1c87",
   "lastOpenFiles": [
+    "Gründe für Wörterbuchmethode.md",
+    "Editiorische Fragen/Probleme bei der Annotation & Editorische Fragen.md",
     "Semantik-Linguistik_Grundlage/Untitled.canvas",
     "Wiener Moderne/Zeitungen & Zeitschriften/Zeitungen & Zeitschriften.md",
     "Stil- und Textmethoden/Textstilistik Barbara Sandig.md",
     "Stil- und Textmethoden/Dritter Raum.md",
-    "Editiorische Fragen/Probleme bei der Annotation & Editorische Fragen.md",
     "Editiorische Fragen",
     "Wiener Moderne/Zeitungen & Zeitschriften/Feuilleton.md",
     "Semantik-Linguistik_Grundlage/Heckenausdruck.md",
