@@ -130,9 +130,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df061ad7381be7ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gründe für Wörterbuchmethode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editiorische Fragen/Probleme bei der Annotation & Editorische Fragen.md",
+                "file": "Gründe für Wörterbuchmethode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editiorische Fragen/Probleme bei der Annotation & Editorische Fragen.md",
+                "file": "Gründe für Wörterbuchmethode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editiorische Fragen/Probleme bei der Annotation & Editorische Fragen.md"
+                "file": "Gründe für Wörterbuchmethode.md"
               }
             }
           }
@@ -266,24 +278,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c7ff23da67c1c87",
+  "active": "df061ad7381be7ab",
   "lastOpenFiles": [
-    "Gründe für Wörterbuchmethode.md",
+    "Masterarbeit.md",
+    "Untitled.canvas",
     "Editiorische Fragen/Probleme bei der Annotation & Editorische Fragen.md",
+    "Semantik-Linguistik_Grundlage/Alexander Ziem Frames und sprachliches Wissen Kognitive Aspekte der semantischen Kompetenz.md",
+    "Semantik-Linguistik_Grundlage/Heckenausdruck.md",
+    "Semantik-Linguistik_Grundlage/Isotopiefelder.md",
+    "Semantik-Linguistik_Grundlage/Lexikalische Relation.md",
     "Semantik-Linguistik_Grundlage/Untitled.canvas",
+    "Semantik-Linguistik_Grundlage/Semantische Merkmale.md",
+    "Semantik-Linguistik_Grundlage/Prädikation von Hyperonymen.md",
+    "Semantik-Linguistik_Grundlage/lexikalische relationen.md",
+    "Semantik-Linguistik_Grundlage/Klasseme.md",
+    "Gründe für Wörterbuchmethode.md",
     "Wiener Moderne/Zeitungen & Zeitschriften/Zeitungen & Zeitschriften.md",
     "Stil- und Textmethoden/Textstilistik Barbara Sandig.md",
     "Stil- und Textmethoden/Dritter Raum.md",
     "Editiorische Fragen",
     "Wiener Moderne/Zeitungen & Zeitschriften/Feuilleton.md",
-    "Semantik-Linguistik_Grundlage/Heckenausdruck.md",
-    "Semantik-Linguistik_Grundlage/Alexander Ziem Frames und sprachliches Wissen Kognitive Aspekte der semantischen Kompetenz.md",
     "Alfred Polgar/Feuilletonist Polgar.md",
     "Alfred Polgar/Polgar.md",
     "Semantik-Linguistik_Grundlage/Untitled",
     "Semantik-Linguistik_Grundlage/wörter  links und rechts mitnehmen.md",
-    "Semantik-Linguistik_Grundlage/Prädikation von Hyperonymen.md",
-    "Semantik-Linguistik_Grundlage/Semantische Merkmale.md",
     "Wiener Moderne/Wiener Moderne Allgemein/Wiener Moderne.md",
     "Theorie/Alfred Polgar/Polgar.md",
     "Theorie/Wiener Moderne/Zeitungen & Zeitschriften/Zeitungen & Zeitschriften.md",
