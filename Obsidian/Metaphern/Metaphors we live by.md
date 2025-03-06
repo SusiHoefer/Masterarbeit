@@ -1,0 +1,2 @@
+[[Metapher]] [[Hyperonymrelationen]] [[Beispiel Hyperonymreduktion]] 
+

@@ -1,1 +1,0 @@
-[[Wörterbuch]] = [[Bedeutungswörterbuch]], geeignet weil automatisch Synonyme mitgeliefert werden und Metakategorien der Wörter

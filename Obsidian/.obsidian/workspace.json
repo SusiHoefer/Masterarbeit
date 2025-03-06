@@ -137,14 +137,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gründe für Wörterbuchmethode.md",
+                "file": "Methoden/GeWi Methoden/Gründe für Wörterbuchmethode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10104e0ddf38db3e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
+            "id": "d8484462f2efa7a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semantik-Linguistik_Grundlage/Beispiel Hyperonymreduktion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c7b555abc4b98ca",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "eaaf1b4fac40d91b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metaphern/Metaphors we live by.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -218,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gründe für Wörterbuchmethode.md",
+                "file": "Metaphern/Metaphors we live by.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gründe für Wörterbuchmethode.md",
+                "file": "Metaphern/Metaphors we live by.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gründe für Wörterbuchmethode.md"
+                "file": "Metaphern/Metaphors we live by.md"
               }
             }
           }
@@ -278,8 +320,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df061ad7381be7ab",
+  "active": "eaaf1b4fac40d91b",
   "lastOpenFiles": [
+    "Metaphern/Metaphors we live by.md",
+    "Metaphern",
+    "Methoden/GeWi Methoden/Gründe für Wörterbuchmethode.md",
+    "Methoden/GeWi Methoden",
+    "Methoden",
+    "Montagetechnik/Montagetechnik.md",
+    "Montagetechnik",
+    "Methoden/Digitale Methoden",
+    "Methoden/Digitale Methoden/Methoden zur Hyperonymreduktion.md",
+    "Montagetechnik/Montage.md",
+    "Semantik-Linguistik_Grundlage/Beispiel Hyperonymreduktion.md",
     "Masterarbeit.md",
     "Untitled.canvas",
     "Editiorische Fragen/Probleme bei der Annotation & Editorische Fragen.md",
@@ -292,7 +345,6 @@
     "Semantik-Linguistik_Grundlage/Prädikation von Hyperonymen.md",
     "Semantik-Linguistik_Grundlage/lexikalische relationen.md",
     "Semantik-Linguistik_Grundlage/Klasseme.md",
-    "Gründe für Wörterbuchmethode.md",
     "Wiener Moderne/Zeitungen & Zeitschriften/Zeitungen & Zeitschriften.md",
     "Stil- und Textmethoden/Textstilistik Barbara Sandig.md",
     "Stil- und Textmethoden/Dritter Raum.md",
@@ -304,8 +356,6 @@
     "Semantik-Linguistik_Grundlage/wörter  links und rechts mitnehmen.md",
     "Wiener Moderne/Wiener Moderne Allgemein/Wiener Moderne.md",
     "Theorie/Alfred Polgar/Polgar.md",
-    "Theorie/Wiener Moderne/Zeitungen & Zeitschriften/Zeitungen & Zeitschriften.md",
-    "Theorie/Wiener Moderne/Wiener Moderne.md",
-    "Zeitungen der Wiener Moderne.md"
+    "Theorie/Wiener Moderne/Zeitungen & Zeitschriften/Zeitungen & Zeitschriften.md"
   ]
 }
