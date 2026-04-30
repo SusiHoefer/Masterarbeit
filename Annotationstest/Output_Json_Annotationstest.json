@@ -1,0 +1,1126 @@
+[
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch",
+      "subtype": "."
+    },
+    "text": "Maronibrater"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch",
+      "subtype": "."
+    },
+    "text": "Maronibrater"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Zeit_Gefühl",
+      "subtype": "."
+    },
+    "text": "Winterfreuden"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Ort_Zeit_Mensch",
+      "subtype": "."
+    },
+    "text": "Großstadtjugend"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Of-\n                     chen"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Relation",
+      "subtype": "."
+    },
+    "text": "An¬\n                        ziehungskraft"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch_Gruppe_Relation",
+      "subtype": "."
+    },
+    "text": "Pro¬\n                           letarierkinder"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch_Gruppe_Relation",
+      "subtype": "."
+    },
+    "text": "Kinder"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Koerper",
+      "subtype": "."
+    },
+    "text": "Hand"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch_Gruppe",
+      "subtype": "."
+    },
+    "text": "Mütter"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch_Gruppe"
+    },
+    "text": "Gouvernanten"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Röckchen"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Handschuhe"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch",
+      "subtype": "."
+    },
+    "text": "Maronibrater"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Bild"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Märchenbuch"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Ort",
+      "subtype": "."
+    },
+    "text": "Großstadt"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Pflanze",
+      "subtype": "."
+    },
+    "text": "Kastanien"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Kreuzer"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Besitz",
+      "subtype": "."
+    },
+    "text": "Preis"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Nahrung",
+      "subtype": "."
+    },
+    "text": "Semmel"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Form",
+      "subtype": "."
+    },
+    "text": "Halbkreisen"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Nahrung",
+      "subtype": "."
+    },
+    "text": "Früchte"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Schale"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Ofenplatte"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Flügel"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Tüten"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Zeitungspapier"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Hütchen"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch",
+      "subtype": "."
+    },
+    "text": "Clown"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Ort",
+      "subtype": "."
+    },
+    "text": "Zirkus"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Koerper",
+      "subtype": "."
+    },
+    "text": "Kopf"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Nahrung",
+      "subtype": "."
+    },
+    "text": "Kartoffeln"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Ofenplatte"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Kreuzer"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Menge",
+      "subtype": "."
+    },
+    "text": "Stück"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Nahrung",
+      "subtype": "."
+    },
+    "text": "Salz"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Tütchen"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Nahrung",
+      "subtype": "."
+    },
+    "text": "Schmaus"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Schale"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "unbestimmt",
+      "subtype": "."
+    },
+    "text": "Beste"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Nahrung",
+      "subtype": "."
+    },
+    "text": "Kartoffel"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Menge",
+      "subtype": "."
+    },
+    "text": "Bissen"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Zeit",
+      "subtype": "."
+    },
+    "text": "Zeitlang"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Koerper",
+      "subtype": "."
+    },
+    "text": "Mund"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Nahrung",
+      "subtype": "."
+    },
+    "text": "Bratäpfel"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch",
+      "subtype": "."
+    },
+    "text": "Maronibrater"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Zeit",
+      "subtype": "."
+    },
+    "text": "Weihnachten"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Schale"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Form",
+      "subtype": "."
+    },
+    "text": "Tröpfchen"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Form",
+      "subtype": "."
+    },
+    "text": "Spalt"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Ort",
+      "subtype": "."
+    },
+    "text": "Außenseite"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Nahrung",
+      "subtype": "."
+    },
+    "text": "Frucht"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "unbestimmt",
+      "subtype": "."
+    },
+    "text": "Schaumperlen"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Nahrung",
+      "subtype": "."
+    },
+    "text": "Saft"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Nahrung",
+      "subtype": "."
+    },
+    "text": "Apfel"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Ofenplatte"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Kreuzer"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Menge",
+      "subtype": "."
+    },
+    "text": "Stück"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch",
+      "subtype": "."
+    },
+    "text": "Maronibrater"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Ofchen"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Attribut",
+      "subtype": "."
+    },
+    "text": "Herrlichkeiten"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Nahrung",
+      "subtype": "."
+    },
+    "text": "Kartoffeln"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Nahrung",
+      "subtype": "."
+    },
+    "text": "Apfel"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Papiertüten"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "natGegenstand",
+      "subtype": "."
+    },
+    "text": "Kohle"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Koerper",
+      "subtype": "."
+    },
+    "text": "Rost"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Pelzmütze"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Attribut",
+      "subtype": "."
+    },
+    "text": "Hauch"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Koerper",
+      "subtype": "."
+    },
+    "text": "Munde"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Substanz",
+      "subtype": "."
+    },
+    "text": "Dampf"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Eisenplatte"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Koerper",
+      "subtype": "."
+    },
+    "text": "Gesicht"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "unbestimmt",
+      "subtype": "."
+    },
+    "text": "Glutwiderschein"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "natPhaenomen",
+      "subtype": "."
+    },
+    "text": "Nebel"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Koerper",
+      "subtype": "."
+    },
+    "text": "Hände"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Taschen"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch",
+      "subtype": "."
+    },
+    "text": "Maroni-\nbrater"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "falsch_Attribut",
+      "subtype": "."
+    },
+    "text": "Muff"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Koerper",
+      "subtype": "."
+    },
+    "text": "Fuß"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Nahrung",
+      "subtype": "."
+    },
+    "text": "Maroni"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch",
+      "subtype": "."
+    },
+    "text": "Passant"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Kognition"
+    },
+    "text": "Sicht"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Nahrung",
+      "subtype": "."
+    },
+    "text": "Maronibrater"
+  },
+  {
+    "tag": "child",
+    "attributes": {},
+    "text": "Gesellschaft"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch",
+      "subtype": "."
+    },
+    "text": "Dienstmann"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch",
+      "subtype": ".",
+      "ana": "nur als Frau gefunden"
+    },
+    "text": "Hökersfrau"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch",
+      "subtype": ".",
+      "ana": "nur als Kutscher gefunden"
+    },
+    "text": "Droschken-\nkutscher"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Koerper",
+      "subtype": "."
+    },
+    "text": "Hände"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Attribut",
+      "subtype": "."
+    },
+    "text": "Feuer"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Attribut",
+      "subtype": "."
+    },
+    "text": "Härte"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Zeit",
+      "subtype": "."
+    },
+    "text": "Zeiten"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Zeit",
+      "subtype": "."
+    },
+    "text": "Zeiten"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Menge",
+      "subtype": "."
+    },
+    "text": "Stück"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Geschehen",
+      "subtype": "."
+    },
+    "text": "Idylls"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Ort",
+      "subtype": "."
+    },
+    "text": "Straße"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Ort",
+      "subtype": ".",
+      "ana": "andere Arten Gruppe Kommuniktaion"
+    },
+    "text": "Zentrum"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Relation",
+      "subtype": "."
+    },
+    "text": "Geselligkeit"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Herd"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Ofen"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "natPhaenomen",
+      "subtype": "."
+    },
+    "text": "Flamme"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch",
+      "subtype": "."
+    },
+    "text": "Maronibrater"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "natGegenstand"
+    },
+    "text": "Kohlen"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Menge"
+    },
+    "text": "Holztrümmern"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Ofenplatte"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Pflanze",
+      "subtype": "."
+    },
+    "text": "Kastanien"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Nahrung",
+      "subtype": ".",
+      "ana": "auch Pflanze"
+    },
+    "text": "Kartoffeln"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Nahrung",
+      "subtype": ".",
+      "ana": "auch Pflanze"
+    },
+    "text": "Hasel-\nnüsse"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Menge",
+      "subtype": "."
+    },
+    "text": "Stück"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Tops",
+      "subtype": ".",
+      "ana": "auch Geschehen,Gruppe,Kommunikation,Mensch"
+    },
+    "text": "Dingerchen"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Heller"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Nahrung"
+    },
+    "text": "Apfel"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Heller"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Menge",
+      "subtype": "."
+    },
+    "text": "Stück"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Exem-\nplare"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch",
+      "subtype": "."
+    },
+    "text": "Kinder"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Kognition",
+      "subtype": ".",
+      "ana": "auch Attribut,Geschehen"
+    },
+    "text": "Interesse"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch",
+      "subtype": "."
+    },
+    "text": "Maronibrater"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch",
+      "subtype": "."
+    },
+    "text": "Maronibrater"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch",
+      "subtype": "."
+    },
+    "text": "Kinder"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Pelzmütze"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "falsch_Attribut",
+      "subtype": "."
+    },
+    "text": "Muff"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Zeit",
+      "subtype": "."
+    },
+    "text": "Abendstunden"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "natPhaenomen",
+      "subtype": "."
+    },
+    "text": "Feuerchen"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Ofen"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Kette"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch",
+      "subtype": "."
+    },
+    "text": "Dieben"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch",
+      "subtype": "."
+    },
+    "text": "Maronibrater"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch",
+      "subtype": "."
+    },
+    "text": "Kinder"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Ort",
+      "subtype": "."
+    },
+    "text": "Stadt"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Koerper",
+      "subtype": "."
+    },
+    "text": "Gesicht"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Kommunikation",
+      "subtype": "."
+    },
+    "text": "Wortes"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Kognition",
+      "subtype": ".",
+      "ana": "Attribut,Gefühl"
+    },
+    "text": "Sinn"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Artefakt",
+      "subtype": "."
+    },
+    "text": "Zehnhellerstück"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Menge",
+      "subtype": ".",
+      "ana": "Besitz"
+    },
+    "text": "Reichtum"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Koerper",
+      "subtype": "."
+    },
+    "text": "Hand"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Mensch",
+      "subtype": "."
+    },
+    "text": "Großstadtkindes"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Attribut",
+      "subtype": ".",
+      "ana": "auch Kognition"
+    },
+    "text": "Mög-\nlichkeiten"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Nahrung",
+      "subtype": ".",
+      "ana": "auch Pflanze"
+    },
+    "text": "Haselnüsse"
+  },
+  {
+    "tag": "child",
+    "attributes": {
+      "type": "Besitz",
+      "subtype": ".",
+      "ana": "gesucht als Extraausgabe"
+    },
+    "text": "Extrausgabe"
+  }
+]
